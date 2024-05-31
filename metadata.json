@@ -1,0 +1,5 @@
+{
+  "name": "Weather",
+  "path": "apps.weather.app",
+  "callable": "WeatherApp"
+}
